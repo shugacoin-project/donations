@@ -14,13 +14,13 @@ We give our utmost thanks to the donors. This donation will be used for our futu
     - [https://t.me/enmaskaw2](https://t.me/enmaskaw2)
    
 ## Donations in SHUGA
-DETAIL | AMOUNT(SHUGA) | TXID | INPUT | RECIPIENT | 
---|--|--|--|--| 
-
+DETAIL | AMOUNT(SHUGA) | TXID | RECIPIENT | 
+--|--|--|--| 
+Received | 1k | [54e98555e94425e715ead754b1c9666dfbb578e1b67383cb03537806ab10a420](https://1explorer.shugacoin.org/tx/54e98555e94425e715ead754b1c9666dfbb578e1b67383cb03537806ab10a420) | Dimmm
 ## Donations in Bitcoin
-DETAIL | AMOUNT(BTC) | TXID | INPUT | RECIPIENT | 
---|--|--|--|--| 
+DETAIL | AMOUNT(BTC) | TXID | RECIPIENT | 
+--|--|--|--|
 
 ## Donations in USDT
-DETAIL | AMOUNT(BTC) | TXID | INPUT | RECIPIENT | 
---|--|--|--|--| 
+DETAIL | AMOUNT(BTC) | TXID | RECIPIENT | 
+--|--|--|--|
