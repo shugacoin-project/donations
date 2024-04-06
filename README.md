@@ -18,6 +18,7 @@ DETAIL | AMOUNT(SHUGA) | TXID | RECIPIENT |
 --|--|--|--| 
 Received | 1k | [54e98555e94425e715ead754b1c9666dfbb578e1b67383cb03537806ab10a420](https://1explorer.shugacoin.org/tx/54e98555e94425e715ead754b1c9666dfbb578e1b67383cb03537806ab10a420) | Dimmm
 Received | 4k | [59b8b34757bff3e22c2f2e24299260120d60298f1aa9dafaef0d873cca6bce92](https://1explorer.shugacoin.org/tx/59b8b34757bff3e22c2f2e24299260120d60298f1aa9dafaef0d873cca6bce92) | Dimmm
+Received | 2k | [61eae3dfc6dd4608d230ecd1fe91257452709d3b2caf8e4137f686024d870d23](https://1explorer.shugacoin.org/tx/61eae3dfc6dd4608d230ecd1fe91257452709d3b2caf8e4137f686024d870d23) | Dimmm
 ## Donations in Bitcoin
 DETAIL | AMOUNT(BTC) | TXID | RECIPIENT | 
 --|--|--|--|
